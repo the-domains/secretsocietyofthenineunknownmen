@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SecretSocietyOfTheNineUnknownMen]]></title>
+        <description><![CDATA[SecretSocietyOfTheNineUnknownMen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 02:07:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Kept Secret Ever!]]></title>
+            <description><![CDATA[<article><h1>Best Kept Secret Ever!</h1><p>Best kept secret ever!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b7bb404bdd8c30996df1f4b824ed000f545246b.jpg"></article>]]></description>
+            <link>undefinedbest-kept-secret-ever/index.html</link>
+            <guid isPermaLink="false">b519deaf-30a3-4f96-8291-349419885357</guid>
+            <pubDate>Sat, 30 Jan 2016 02:06:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
