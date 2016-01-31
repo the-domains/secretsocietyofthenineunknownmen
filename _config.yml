@@ -1,7 +1,7 @@
 name: SecretSocietyOfTheNineUnknownMen
 favicon: null
-layout_spectrum: 0.49188
-typography_spectrum: 0.41017896914854646
+layout_spectrum: 0.64107
+typography_spectrum: 1
 title: Secret Society Of The Nine Unknown Men
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f5e4ae'
-    - '#0702f5'
-    - '#0b0000'
-    - '#818181'
-    - '#a0add9'
-  brandStrength: 0.2925595948472619
+    - '#000000'
+    - '#ffffff'
+    - '#fc8300'
+    - '#ae3c00'
+    - '#7d7366'
+  brandStrength: 0
   lightness: 0.004089578753337264
-  saturation: 0.8063671675045043
+  saturation: 0.5
   rhythmicContrast: 0.7264416986145079
 purpose: []
