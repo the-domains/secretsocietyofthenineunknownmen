@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Secret Society Of The Nine Unknown Men]]></title>
+        <description><![CDATA[Secret Society Of The Nine Unknown Men]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 06:34:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[At Least Once Per Book]]></title>
+            <description><![CDATA[<article><h1>At Least Once Per Book</h1><p>"Lavishly entangled words of enlightenment, the eloquence of deceit."</p></article>]]></description>
+            <link>undefinedat-least-once-per-book/index.html</link>
+            <guid isPermaLink="false">831fb13a-b873-46f9-b91c-6ae180fe3464</guid>
+            <pubDate>Sun, 31 Jan 2016 06:34:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
