@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: 'Read while doing research on the Nine Unknown Men (NUM):'
-datePublished: '2016-01-31T06:40:51.175Z'
-dateModified: '2016-01-31T06:40:41.699Z'
-title: While Doing Research
+description: '"Nine? I thought there are 12. Oh, well – it is hard to keep track of Unknowns . . ."'
+datePublished: '2016-05-29T23:25:11.243Z'
+dateModified: '2016-05-29T23:18:30.671Z'
+title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 sourcePath: _posts/2016-01-31-while-doing-research.md
-published: true
+starred: false
 url: while-doing-research/index.html
 _type: Article
 
