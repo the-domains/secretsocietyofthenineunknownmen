@@ -2,24 +2,22 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
-description: The first Steampunk Pope novel by Edward Patrick Ezju Kranz
-datePublished: '2016-01-31T06:20:06.229Z'
-dateModified: '2016-01-31T06:19:33.653Z'
-title: Steampunk Pope
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+description: The first Steampunk Pope novel by the author Edward Patrick Ezju Kranz
+datePublished: '2016-05-29T23:24:48.967Z'
+dateModified: '2016-05-29T23:05:42.280Z'
+title: Header for SS of the NUM
+author:
+  - name: Edward Patrick Ezju Kranz
+    url: ''
 sourcePath: _posts/2016-01-31-steampunk-pope.md
-published: true
+authors: []
+publisher: null
+starred: true
 _type: Blurb
 
 ---
 The first Steampunk Pope novel by the author Edward Patrick Ezju Kranz
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/016d4bc3-cc2a-4012-8a32-4b86b11a3ce4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/681e2217adabf1fc50434b2701ad94d483760b04.jpg)
