@@ -3,21 +3,16 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Oddities shared about the author Edward Patrick Ezju Kranz
-datePublished: '2016-01-31T06:43:35.985Z'
-dateModified: '2016-01-31T06:43:33.461Z'
-title: The Author
+description: The Author
+datePublished: '2016-05-29T23:25:34.453Z'
+dateModified: '2016-05-29T23:01:25.078Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-31-the-author.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: the-author/index.html
 _type: WebPage
 
