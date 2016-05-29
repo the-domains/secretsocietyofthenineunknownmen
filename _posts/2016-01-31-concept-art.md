@@ -3,21 +3,16 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: 'Concept art for the forthcoming novel, Secret Society of the Nine Unknown Men, by the author Edward Patrick Ezju Kranz'
-datePublished: '2016-01-31T06:23:25.233Z'
-dateModified: '2016-01-31T06:23:03.898Z'
-title: Concept Art
+description: Concept Art
+datePublished: '2016-05-29T23:25:44.412Z'
+dateModified: '2016-05-29T23:00:58.253Z'
+title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 sourcePath: _posts/2016-01-31-concept-art.md
-published: true
+starred: false
 url: concept-art/index.html
 _type: WebPage
 
