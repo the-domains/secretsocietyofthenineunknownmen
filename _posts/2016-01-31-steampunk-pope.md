@@ -6,11 +6,11 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: The first Steampunk Pope novel by the author Edward Patrick Ezju Kranz
-datePublished: '2016-05-29T23:24:48.967Z'
-dateModified: '2016-05-29T23:05:42.280Z'
+datePublished: '2016-05-30T23:18:24.086Z'
+dateModified: '2016-05-30T23:17:15.007Z'
 title: Header for SS of the NUM
 author:
-  - name: Edward Patrick Ezju Kranz
+  - name: ''
     url: ''
 sourcePath: _posts/2016-01-31-steampunk-pope.md
 authors: []
