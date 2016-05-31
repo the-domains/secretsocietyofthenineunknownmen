@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T02:41:53.814Z'
-dateModified: '2016-05-31T02:41:28.102Z'
-title: Header for SS of the NUM
+datePublished: '2016-05-31T02:52:00.454Z'
+dateModified: '2016-05-31T02:51:45.839Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -19,4 +18,4 @@ starred: true
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/681e2217adabf1fc50434b2701ad94d483760b04.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdd7b08c-6ace-4e62-93ef-0f1211ff06f9.jpg)
